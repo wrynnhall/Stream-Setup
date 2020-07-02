@@ -8,7 +8,7 @@
 - **OS**:  Microsoft Windows 10 Pro 64-bit
 - **CPU**: Intel Core i7-9700K 3.6 GHz 8-core Processor
 - **Graphics Card**: NVIDIA GeForce RTX 2070 SUPER 8GB
-- **Memory**: Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3000 CL15 Memory X2 (total of 32GB)
+- **Memory**: Corsair Vengeance LPX 16 GB (4 x 8 GB) DDR4-3000
 - **Monitor**: Dell S2719DGF 27.0" 2560x1440 155 Hz
 - **Storage**: Samsung 860 QVO 1 TB 2.5" Solid State Drive
 - **MOBO**: MSI Z390-A PRO ATX LGA1151 Motherboard
