@@ -12,6 +12,8 @@
 - **Monitor**: Dell S2719DGF 27.0" 2560x1440 155 Hz
 - **Storage**: Samsung 860 QVO 1 TB 2.5" Solid State Drive
 - **MOBO**: MSI Z390-A PRO ATX LGA1151 Motherboard
+- **Keyboard**: Logitech G Pro Mechanical Wired Gaming GX Blue Clicky Switch Keyboard with RGB Back Lighting - Black
+- **Mouse**: CORSAIR Scimitar PRO Wired Optical Gaming Mouse with RGB Lighting - Yellow
 
 ### :computer: Streaming Computer
 - **OS**:  Microsoft Windows 10 Home 64-bit
@@ -38,6 +40,7 @@
 - **Stream Management**: Touch-Portal w/ Voicemeeter Pickel to interface with Voicemeter
 - **Alert Management**: StreamElements Ground Control
 - **Music**: Spotify 
+- **Keyboard/Mouse Sharing**: Synergy
 - **Communications**: Discord
 - **Xbox**: 
   - Xbox Game Companion to stream Xbox display to gaming PC
